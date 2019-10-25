@@ -179,6 +179,9 @@ nav {
 nav a {
   color: black;
 }
+nav h3 {
+  font-size: 35px;
+}
 .footer {
   width: 100%;
   border-top: 2px dashed silver;
